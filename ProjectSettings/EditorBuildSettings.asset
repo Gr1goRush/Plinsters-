@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Context Screen/Context Screen Sample.unity
+    guid: a2154acf9dc1c46e5a8df649580ad6b9
+  - enabled: 1
+    path: Assets/InternalAssets/Scenes/PSScene.unity
+    guid: 03c28fbba2c7e1a44af0b540bf1a1316
+  - enabled: 1
+    path: Assets/InternalAssets/Scenes/Boot.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/InternalAssets/Scenes/Menu.unity
+    guid: be68c15a57993ed4fb2ed6d5a5a65472
+  - enabled: 1
+    path: Assets/InternalAssets/Scenes/Gameplay.unity
+    guid: d37ffaae9bd8b544182356be89c8d0b2
+  - enabled: 1
+    path: Assets/InternalAssets/Scenes/Tutorial.unity
+    guid: c1fa7f96cabbd14478d161f939f92ca3
+  m_configObjects: {}

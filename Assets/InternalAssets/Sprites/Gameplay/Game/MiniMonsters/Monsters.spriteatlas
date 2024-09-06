@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Monsters
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: bd737f5149d0a9141b2085b295d2568f, type: 3}
+    - {fileID: 2800000, guid: 31a19b2ec1e160c4193841212c126ae2, type: 3}
+    - {fileID: 2800000, guid: 9d00f80e3d0ca0140a528a92bfa6922d, type: 3}
+    - {fileID: 2800000, guid: 37cf1c51dee819a4d817a66a203b244f, type: 3}
+    - {fileID: 2800000, guid: 0963f3627b886134a9b1f70681b2a05c, type: 3}
+    - {fileID: 2800000, guid: f082938e56660164ca1ceb3c2d5096f2, type: 3}
+    - {fileID: 2800000, guid: 7d69b59782ba71b43a4017829dfc0b5f, type: 3}
+    - {fileID: 2800000, guid: d9b0c7786c7131b48bc23069bab7f0cd, type: 3}
+    - {fileID: 2800000, guid: 0c9c6507f4550db4cac849e0e744f72a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 37cf1c51dee819a4d817a66a203b244f: 21300000
+    - bd737f5149d0a9141b2085b295d2568f: 21300000
+    - 0963f3627b886134a9b1f70681b2a05c: 21300000
+    - 0c9c6507f4550db4cac849e0e744f72a: 21300000
+    - 7d69b59782ba71b43a4017829dfc0b5f: 21300000
+    - d9b0c7786c7131b48bc23069bab7f0cd: 21300000
+    - 9d00f80e3d0ca0140a528a92bfa6922d: 21300000
+    - 31a19b2ec1e160c4193841212c126ae2: 21300000
+    - f082938e56660164ca1ceb3c2d5096f2: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 37cf1c51dee819a4d817a66a203b244f, type: 3}
+  - {fileID: 21300000, guid: bd737f5149d0a9141b2085b295d2568f, type: 3}
+  - {fileID: 21300000, guid: 0963f3627b886134a9b1f70681b2a05c, type: 3}
+  - {fileID: 21300000, guid: 0c9c6507f4550db4cac849e0e744f72a, type: 3}
+  - {fileID: 21300000, guid: 7d69b59782ba71b43a4017829dfc0b5f, type: 3}
+  - {fileID: 21300000, guid: d9b0c7786c7131b48bc23069bab7f0cd, type: 3}
+  - {fileID: 21300000, guid: 9d00f80e3d0ca0140a528a92bfa6922d, type: 3}
+  - {fileID: 21300000, guid: 31a19b2ec1e160c4193841212c126ae2, type: 3}
+  - {fileID: 21300000, guid: f082938e56660164ca1ceb3c2d5096f2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - G1
+  - B1
+  - G2
+  - R3
+  - R1
+  - R2
+  - B3
+  - B2
+  - G3
+  m_RenderDataMap: {}
+  m_Tag: Monsters
+  m_IsVariant: 0

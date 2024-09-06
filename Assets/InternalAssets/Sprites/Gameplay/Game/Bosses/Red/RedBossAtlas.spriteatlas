@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RedBossAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2f648768176e4124aac3244a5eaa669e, type: 3}
+    - {fileID: 2800000, guid: 24bef54e2e1170648b717abadc3fd5bc, type: 3}
+    - {fileID: 2800000, guid: c13a9c5f41589f743995d0ba07cdc3ac, type: 3}
+    - {fileID: 2800000, guid: cefe26e6e3fbce64eb2a54ca691b21b5, type: 3}
+    - {fileID: 2800000, guid: 7dacc3263be98af44830dfccac93fa54, type: 3}
+    - {fileID: 2800000, guid: 998401d7c0009794a96234d0722b8fec, type: 3}
+    - {fileID: 2800000, guid: fb283cd6d87fde4478071b755057b919, type: 3}
+    - {fileID: 2800000, guid: 7cf15a97328c3a94e98e64ca8e69cb63, type: 3}
+    - {fileID: 2800000, guid: f8e74499f3efa13449d32009806f02cc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 7dacc3263be98af44830dfccac93fa54: 21300000
+    - fb283cd6d87fde4478071b755057b919: 21300000
+    - cefe26e6e3fbce64eb2a54ca691b21b5: 21300000
+    - 7cf15a97328c3a94e98e64ca8e69cb63: 21300000
+    - 998401d7c0009794a96234d0722b8fec: 21300000
+    - 2f648768176e4124aac3244a5eaa669e: 21300000
+    - f8e74499f3efa13449d32009806f02cc: 21300000
+    - 24bef54e2e1170648b717abadc3fd5bc: 21300000
+    - c13a9c5f41589f743995d0ba07cdc3ac: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7dacc3263be98af44830dfccac93fa54, type: 3}
+  - {fileID: 21300000, guid: fb283cd6d87fde4478071b755057b919, type: 3}
+  - {fileID: 21300000, guid: cefe26e6e3fbce64eb2a54ca691b21b5, type: 3}
+  - {fileID: 21300000, guid: 7cf15a97328c3a94e98e64ca8e69cb63, type: 3}
+  - {fileID: 21300000, guid: 998401d7c0009794a96234d0722b8fec, type: 3}
+  - {fileID: 21300000, guid: 2f648768176e4124aac3244a5eaa669e, type: 3}
+  - {fileID: 21300000, guid: f8e74499f3efa13449d32009806f02cc, type: 3}
+  - {fileID: 21300000, guid: 24bef54e2e1170648b717abadc3fd5bc, type: 3}
+  - {fileID: 21300000, guid: c13a9c5f41589f743995d0ba07cdc3ac, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Frame 1321315293
+  - Frame 1321315295
+  - Frame 1321315292
+  - Frame 1321315296
+  - Frame 1321315294
+  - Frame 1321315289
+  - image 3
+  - Frame 1321315290
+  - Frame 1321315291
+  m_RenderDataMap: {}
+  m_Tag: RedBossAtlas
+  m_IsVariant: 0
